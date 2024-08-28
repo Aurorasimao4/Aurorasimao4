@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+<div>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurorasimao4&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
