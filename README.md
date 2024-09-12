@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Performance improvement in graphic projects and API manipulation.
 - 💬 Ask me about Programming in C, use of RestSharp, development with MiniLibX.
 - 📫 How to reach me: simaoaurora4@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: her
 - ⚡ Fun fact: I'm always exploring new areas of technology, from fractals to artificial intelligence!
   
